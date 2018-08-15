@@ -14,6 +14,35 @@ This course is a hands-on introduction to coding starting with coding tools such
 #### [Github Getting started][6]
 ### [Visual Studio Code][7]
 #### [VS Code Getting Started][8]
+### [Node][9]
+
+## Syllabus
+## August 
+### Aug 16 Intro Overview of Course
+#### Get Acquainted
+### Aug 17 Lab Set up VsCode, Git, terminal , Node
+### Aug 30 Javascript Intro mechanics HTML, CSS 
+### Aug 31 Lab and Into to Javascript continued
+## September
+### Sept 13  Strings, Arrays etc
+Reading  LEJ 63 – 83 Arrays
+ Regex 83-94  –    Regular Expressions readings from        Coding for Lawyers   http://codingforlawyers.com/chapters/ch1/
+#### Coding for Lawyers [Regular Expressions][10]
+### Sept 14  node repl, strings, logic, arrays  -- Take home test.
+### Sept 27  Objects / Functions – start Palindrome
+Reading LEJ 95 – 129 Functions 
+### Sept 28  Object Functions Lab
+Reading 129 - 166
+## October
+### Oct 11  Objects and Functions  review 
+   Start on Dom
+
+### Oct 12  Dom Palindrome page
+### Oct 25  Dom - Photo page
+### Oct 26 Photo lab deploy to Netlify
+## November
+### Nov 8  Smart Contracts Ergo Ethereum
+### Nov 9  Crypto Zombies
 
 
 
@@ -25,3 +54,5 @@ This course is a hands-on introduction to coding starting with coding tools such
 [6]:	https://guides.github.com/activities/hello-world/#what
 [7]:	https://code.visualstudio.com/
 [8]:	https://code.visualstudio.com/docs/introvideos/basics
+[9]:	https://nodejs.org/en/download/
+[10]:	http://codingforlawyers.com/chapters/ch1/%0D%0A
