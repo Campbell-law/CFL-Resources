@@ -18,6 +18,10 @@ This course is a hands-on introduction to coding starting with coding tools such
 #### [VS Code Getting Started][9]
 ### [Node][10]
 
+## General Resources
+### Design Thinking 
+#### [Crash Course in Design Thinking][11]
+
 ## Syllabus
 ## August 
 ### Aug 16 Intro Overview of Course
@@ -29,7 +33,7 @@ This course is a hands-on introduction to coding starting with coding tools such
 ### Sept 13  Strings, Arrays etc
 Reading  LEJ 63 – 83 Arrays
  Regex 83-94  –    Regular Expressions readings from        Coding for Lawyers   http://codingforlawyers.com/chapters/ch1/
-#### Coding for Lawyers [Regular Expressions][11]
+#### Coding for Lawyers [Regular Expressions][12]
 ### Sept 14  node repl, strings, logic, arrays  -- Take home test.
 ### Sept 27  Objects / Functions – start Palindrome
 Reading LEJ 95 – 129 Functions 
@@ -58,4 +62,5 @@ Reading 129 - 166
 [8]:	https://code.visualstudio.com/
 [9]:	https://code.visualstudio.com/docs/introvideos/basics
 [10]:	https://nodejs.org/en/download/
-[11]:	http://codingforlawyers.com/chapters/ch1/%0D%0A
+[11]:	https://dschool.stanford.edu/resources-collections/a-virtual-crash-course-in-design-thinking
+[12]:	http://codingforlawyers.com/chapters/ch1/%0D%0A
