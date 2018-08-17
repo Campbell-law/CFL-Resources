@@ -6,8 +6,7 @@
 This course is a hands-on introduction to coding starting with coding tools such as Git, VsCode and the interactive terminal. Students will start by getting familiar with coding tools and the world of web programming. The remainder of the course will be a deep dive into JavaScript the language of the Web - the course will be based on the JavaScript section of Michael Hartl's [Learn Enough to be Dangerous ][1]  series. Students will develop and deploy a web application that detects palindromes and a simple interactive photo gallery by working through the episodes in the course. 
 
 [Should Lawyers Learn to Code][2]
-![Venn](https://github.com/tbrookelaw/CFL-Resources/blob/master/venn1.png)
-
+![Venn][image-1]
 
 
 ## Course Setup
@@ -31,7 +30,8 @@ This course is a hands-on introduction to coding starting with coding tools such
 #### Get Acquainted
 ### Aug 17 Lab Set up VsCode, Git, terminal , Node
 ### Aug 30 Javascript Intro mechanics HTML, CSS
-### Aug 31 Lab and Into to Javascript continued
+Reading LEJ 1 - 63 Strings
+### Aug 31 Lab and Intro to Javascript continued
 ## September
 ### Sept 13  Strings, Arrays etc
 Reading  LEJ 63 – 83 Arrays
