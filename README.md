@@ -19,10 +19,11 @@ This course is a hands-on introduction to coding starting with coding tools such
 ### [Visual Studio Code][8]
 #### [VS Code Getting Started][9]
 ### [Node][10]
+#### Alternative Node install with [homebrew][11].  [How to install node ][12] 
 
 ## General Resources
 ### Design Thinking
-#### [Crash Course in Design Thinking][11]
+#### [Crash Course in Design Thinking][13]
 
 ## Syllabus
 ## August
@@ -36,7 +37,7 @@ Reading LEJ 1 - 63 Strings
 ### Sept 13  Strings, Arrays etc
 Reading  LEJ 63 – 83 Arrays
  Regex 83-94  –    Regular Expressions readings from        Coding for Lawyers   http://codingforlawyers.com/chapters/ch1/
-#### Coding for Lawyers [Regular Expressions][12]
+#### Coding for Lawyers [Regular Expressions][14]
 ### Sept 14  node repl, strings, logic, arrays  -- Take home test.
 ### Sept 27  Objects / Functions – start Palindrome
 Reading LEJ 95 – 129 Functions 
@@ -65,7 +66,9 @@ Reading 129 - 166
 [8]:	https://code.visualstudio.com/
 [9]:	https://code.visualstudio.com/docs/introvideos/basics
 [10]:	https://nodejs.org/en/download/
-[11]:	https://dschool.stanford.edu/resources-collections/a-virtual-crash-course-in-design-thinking
-[12]:	http://codingforlawyers.com/chapters/ch1/%0D%0A
+[11]:	https://brew.sh/
+[12]:	https://medium.com/@kkostov/how-to-install-node-and-npm-on-macos-using-homebrew-708e2c3877bd
+[13]:	https://dschool.stanford.edu/resources-collections/a-virtual-crash-course-in-design-thinking
+[14]:	http://codingforlawyers.com/chapters/ch1/%0D%0A
 
 [image-1]:	https://github.com/tbrookelaw/CFL-Resources/blob/master/venn1.png
