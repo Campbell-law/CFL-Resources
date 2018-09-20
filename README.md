@@ -30,29 +30,30 @@ This course is a hands-on introduction to coding starting with coding tools such
 ### Aug 16 Intro Overview of Course
 #### Get Acquainted
 ### Aug 17 Lab Set up VsCode, Git, terminal , Node
-### Aug 30 Javascript Intro mechanics HTML, CSS
+### Aug 30 Intro to Neota Logic
 Reading LEJ 1 - 63 Strings
-### Aug 31 Lab and Intro to Javascript continued
+### Aug 31 Neota
 ## September
 ### Sept 13  Strings, Arrays etc
 Reading  LEJ 63 – 83 Arrays
  Regex 83-94  –    Regular Expressions readings from        Coding for Lawyers   http://codingforlawyers.com/chapters/ch1/
 #### Coding for Lawyers [Regular Expressions][14]
 ### Sept 14  node repl, strings, logic, arrays  -- Take home test.
-### Sept 27  Objects / Functions – start Palindrome
-Reading LEJ 95 – 129 Functions 
-### Sept 28  Object Functions Lab
+### Sept 27  Review and discussion of Neota Logic Maps 
+Reading LEJ 95 – 129 Functions
+### Sept 28  Maps Workshop
 Reading 129 - 166
 ## October
-### Oct 11  Objects and Functions  review
-   Start on Dom
+### October 5 Duke Seal Competition
+### Oct 11 Neota Apps
+   
 
-### Oct 12  Dom Palindrome page
-### Oct 25  Dom - Photo page
-### Oct 26 Photo lab deploy to Netlify
+### Oct 12  Neota Apps Workshop
+### Oct 25  Javascript Crash Course 
+### Oct 26  Javascript Crash Course 
 ## November
 ### Nov 8  Smart Contracts Ergo Ethereum
-### Nov 9  Crypto Zombies
+### Nov 9  Smart Contracts Ergor Ethereum
 
 
 
