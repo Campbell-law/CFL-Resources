@@ -34,11 +34,8 @@ This course is a hands-on introduction to coding starting with coding tools such
 Reading LEJ 1 - 63 Strings
 ### Aug 31 Neota
 ## September
-### Sept 13  Strings, Arrays etc
-Reading  LEJ 63 – 83 Arrays
- Regex 83-94  –    Regular Expressions readings from        Coding for Lawyers   http://codingforlawyers.com/chapters/ch1/
-#### Coding for Lawyers [Regular Expressions][14]
-### Sept 14  node repl, strings, logic, arrays  -- Take home test.
+### Sept 13  Hurricane
+### Sept 14  Hurricane
 ### Sept 27  Review and discussion of Neota Logic Maps 
 Reading LEJ 95 – 129 Functions
 ### Sept 28  Maps Workshop
