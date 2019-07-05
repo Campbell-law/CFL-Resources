@@ -10,7 +10,9 @@ This course is a hands-on introduction to coding starting with coding using Pyth
 ![Venn][image-1]
 
 
-# [Campbell Coding Cheatsheet](c-c-c.md)
+
+
+## [Campbell Coding Cheatsheet](c-c-c.md)
 
 
 ## Course Setup
@@ -31,13 +33,22 @@ This course is a hands-on introduction to coding starting with coding using Pyth
 
 ### [Python][10]
 
+### [Docassemble](https://docassemble.org/)
+
+### [Community Lawyer](https://community.lawyer/)
+
+---
 ## General Resources
 
 ### Design Thinking
 
 #### [Crash Course in Design Thinking][13]
 
+___
+
+
 ## Syllabus
+___
 
 ## August
 
@@ -47,13 +58,17 @@ This course is a hands-on introduction to coding starting with coding using Pyth
 
 #### Intro to Python
 
+#### Intro to Tools 
+
+#### Intro to Projects
+
 ### Aug 29 Lab Set up Python, VsCode, terminal, Git, Github
 
 * Tools - The Terminal
 * Tools - VsCode
 * Tools - Git, Github
 
-Hello World
+## [Hello World with Python](https://github.com/tbrookelaw/Hello-World)
 
 ## September
 
@@ -79,7 +94,7 @@ Hello World
 
 ## November
 
-### Nov 7  Smart Contracts Ergo Ethereum
+### Nov 7  Smart Contracts Ergo - 
 
 ### Nov 14  Smart Contracts Ergor Ethereum
 
