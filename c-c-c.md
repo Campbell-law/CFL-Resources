@@ -37,4 +37,7 @@
 
 ## VSCode
 
+* [Intro Videos](https://code.visualstudio.com/docs/getstarted/introvideos)
+* [Python in VSCode](https://code.visualstudio.com/docs/python/python-tutorial)
+
 ---
