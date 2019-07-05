@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This course is a hands-on introduction to coding starting with coding using Python and important codinng tools such as Git, VsCode and the interactive terminal. Students will start by getting familiar with coding tools and the world of Python. In addition to using basic Python students will be able to leverage their basice cosing skille to collaborate on a larger project using Docassemble the popular legal application tool written in Python.
+This course is a hands-on introduction to coding starting with coding using Python and important codinng tools such as Git, VsCode and the interactive terminal. Students will start by getting familiar with coding tools and the world of Python. In addition to using basic Python students will be able to leverage their basice cosing skills to collaborate on a larger project using Docassemble the popular legal application tool written in Python.
 
 [Should Lawyers Learn to Code][2]
 ![Venn][image-1]

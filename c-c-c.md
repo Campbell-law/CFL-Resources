@@ -7,10 +7,9 @@
 ## [VSCode](#VsCode)
 
 
-# Terminal 
+## Terminal
 
-## What You Need to Know
-
+### What You Need to Know
 
 
 ```bash
@@ -23,9 +22,9 @@
 
 ---
 
-# Git 
+## Git 
 
-## (In the Terminal)
+### (In the Terminal)
 
 ```bash
 -  git init    . . . Initialize a repository (directory)
@@ -36,6 +35,6 @@
 
 ---
 
-# VSCode
+## VSCode
 
 ---
