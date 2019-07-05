@@ -1,9 +1,9 @@
 
 
-# Coding For Lawyers  - Fall 2018
+# Coding For Lawyers  - Fall 2019
 
 ## Introduction
-This course is a hands-on introduction to coding starting with coding tools such as Git, VsCode and the interactive terminal. Students will start by getting familiar with coding tools and the world of web programming. The remainder of the course will be a deep dive into JavaScript the language of the Web - the course will be based on the JavaScript section of Michael Hartl's [Learn Enough to be Dangerous ][1]  series. Students will develop and deploy a web application that detects palindromes and a simple interactive photo gallery by working through the episodes in the course. 
+This course is a hands-on introduction to coding starting with coding tools such as Git, VsCode and the interactive terminal. Students will start by getting familiar with coding tools and the world of Python. 
 
 [Should Lawyers Learn to Code][2]
 ![Venn][image-1]
@@ -27,9 +27,9 @@ This course is a hands-on introduction to coding starting with coding tools such
 
 ## Syllabus
 ## August
-### Aug 16 Intro Overview of Course
+### Aug 22 Intro Overview of Course
 #### Get Acquainted
-### Aug 17 Lab Set up VsCode, Git, terminal , Node
+### Aug 29 Lab Set up Pythin, VsCode, Git, terminal
 ### Aug 30 Intro to Neota Logic
 Reading LEJ 1 - 63 Strings
 ### Aug 31 Neota
