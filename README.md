@@ -3,6 +3,7 @@
 # Coding For Lawyers  - Fall 2019
 
 ## Introduction
+
 This course is a hands-on introduction to coding starting with coding tools such as Git, VsCode and the interactive terminal. Students will start by getting familiar with coding tools and the world of Python. 
 
 [Should Lawyers Learn to Code][2]
@@ -11,50 +12,71 @@ This course is a hands-on introduction to coding starting with coding tools such
 
 ## Course Setup
 
-### [Learn Enough Javascript to be Dangerous ][3]
+### [Automate the Boring Stuff with Python][1]
+
 ### [MacOs Terminal][4]
+
 ### [Windows Setup][5]
+
 ### [Github][6]
+
 #### [Github Getting started][7]
+
 ### [Visual Studio Code][8]
+
 #### [VS Code Getting Started][9]
-### [Node][10]
-#### Alternative Node install with [homebrew][11].  [How to install node ][12] 
+
+### [Python][10]
 
 ## General Resources
+
 ### Design Thinking
+
 #### [Crash Course in Design Thinking][13]
 
 ## Syllabus
+
 ## August
+
 ### Aug 22 Intro Overview of Course
+
 #### Get Acquainted
-### Aug 29 Lab Set up Pythin, VsCode, Git, terminal
-### Aug 30 Intro to Neota Logic
-Reading LEJ 1 - 63 Strings
-### Aug 31 Neota
+
+### Aug 29 Lab Set up Python, VsCode, terminal, Git, Github 
+
+Hello World
 ## September
-### Sept 13  Hurricane
-### Sept 14  Hurricane
-### Sept 27  Review and discussion of Neota Logic Maps 
-Reading LEJ 95 – 129 Functions
-### Sept 28  Maps Workshop
-Reading 129 - 166
+###Sept 05  
+
+### Sept 12  
+
+### Sept 19  
+
+### Sept 26  
+
 ## October
-### October 5 Duke Seal Competition
-### Oct 11 Neota Apps
+
+### October 3 
+
+### Oct 10 
    
+### Oct 17 
 
-### Oct 12  Neota Apps Workshop
-### Oct 25  Javascript Crash Course 
-### Oct 26  Javascript Crash Course 
+### Oct 24  
+
+### Oct 31
+
 ## November
-### Nov 8  Smart Contracts Ergo Ethereum
-### Nov 9  Smart Contracts Ergor Ethereum
+
+### Nov 7  Smart Contracts Ergo Ethereum
+
+### Nov 14  Smart Contracts Ergor Ethereum
+
+### Nov 21  Smart Contracts Ergor Ethereum
 
 
 
-[1]:	https://www.learnenough.com/courses
+[1]:	https://automatetheboringstuff.com/
 [2]:	https://lawyerist.com/hello-world-attorneys-learn-code/#rf2-124089
 [3]:	https://www.learnenough.com/course/learn_enough_javascript/javascript
 [4]:	https://www.learnenough.com/course/learn_enough_command_line/command_line/basics/running_a_terminal
@@ -63,7 +85,7 @@ Reading 129 - 166
 [7]:	https://guides.github.com/activities/hello-world/#what
 [8]:	https://code.visualstudio.com/
 [9]:	https://code.visualstudio.com/docs/introvideos/basics
-[10]:	https://nodejs.org/en/download/
+[10]:   https://www.python.org/downloads/
 [11]:	https://brew.sh/
 [12]:	https://medium.com/@kkostov/how-to-install-node-and-npm-on-macos-using-homebrew-708e2c3877bd
 [13]:	https://dschool.stanford.edu/resources-collections/a-virtual-crash-course-in-design-thinking
