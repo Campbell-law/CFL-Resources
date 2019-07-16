@@ -72,13 +72,21 @@ ___
 
 ## September
 
-### Sept 05  
+### Sept 05 - Python Basics 
 
-### Sept 12  
+Chapter 1 Boring Stuff
+ Basic types, Variables, Assignment
+ Simple functions 
 
-### Sept 19  
+### Sept 12 - Flow Control
+    Chapter 2 Boring Stuff
+    if else, loops 
 
-### Sept 26  
+### Sept 19  - Flow cont'd Intro to Comumunity Lawyer / Docassemble
+Expunction Walk through
+
+### Sept 26  Functions - Notebooks Intro
+Chapter 3 Boring Stuff
 
 ## October
 
@@ -86,19 +94,19 @@ ___
 
 ### Oct 10 
    
-### Oct 17 
+### Oct 17 Smart Contracts 
 
-### Oct 24  
+### Oct 24  Guest lecture Jerome Simeon
 
 ### Oct 31
 
 ## November
 
-### Nov 7  Smart Contracts Ergo - 
+### Nov 7  Projects 
 
-### Nov 14  Smart Contracts Ergor Ethereum
+### Nov 14  Projects
 
-### Nov 21  Smart Contracts Ergor Ethereum
+### Nov 21  Present Projects
 
 
 
