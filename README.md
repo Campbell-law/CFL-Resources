@@ -73,7 +73,7 @@ ___
 
 ## September
 
-### [Sept 05 - Python Basics] (https://github.com/Campbell-law/sept-05-Intro-to-Python)
+### [Sept 05 - Python Basics](https://github.com/Campbell-law/sept-05-Intro-to-Python)
 
 Chapter 1 Boring Stuff
  Basic types, Variables, Assignment
