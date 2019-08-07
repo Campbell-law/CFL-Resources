@@ -8,6 +8,7 @@ This course is a hands-on introduction to coding starting with coding using Pyth
  
 
 [Should Lawyers Learn to Code][2]
+
 ![Venn][image-1]
 
 
@@ -63,13 +64,13 @@ ___
 
 #### Intro to Projects
 
-### Aug 29 Lab Set up Python, VsCode, terminal, Git, Github
+### Aug 29  Lab Set up Python, VsCode, terminal, Git, Github
 
 * Tools - The Terminal
 * Tools - VsCode
 * Tools - Git, Github
 
-## [Hello World with Python](https://github.com/tbrookelaw/Hello-World)
+### [Hello World with Python](https://github.com/Campbell-law/Hello-World)
 
 ## September
 
@@ -79,11 +80,12 @@ Chapter 1 Boring Stuff
  Basic types, Variables, Assignment
  Simple functions 
 
-### Sept 12 - Flow Control
+### [Sept 12 - Flow Control](https://github.com/Campbell-law/sept-12-flow-control)
     Chapter 2 Boring Stuff
     if else, loops 
 
-### Sept 19  - Flow cont'd Intro to Comumunity Lawyer / Docassemble
+### Sept 19  - Flow cont'd Intro to [Docassemble](https://docassemble.org/) /  [Community Lawyer](https://community.lawyer/)
+ 
 Expunction Walk through
 
 ### Sept 26  Functions - Notebooks  Intro
