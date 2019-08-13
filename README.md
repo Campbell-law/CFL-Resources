@@ -64,7 +64,14 @@ ___
 
 #### Intro to Projects
 
-### Aug 29  Lab Set up Python, VsCode, terminal, Git, Github
+### Aug 29 Intro to [Docassemble](https://docassemble.org/) 
+
+####  Special remote guest session with Quinten Steenhuis 
+
+Quinten is with the Greater Boston Legal Services and he will demonstate 
+how they use Docassemble
+
+ Continue Lab Set up Python, VsCode, terminal, Git, Github
 
 * Tools - The Terminal
 * Tools - VsCode
@@ -76,36 +83,38 @@ ___
 
 ### [Sept 05 - Python Basics](https://github.com/Campbell-law/sept-05-Intro-to-Python)
 
-Chapter 1 Boring Stuff
- Basic types, Variables, Assignment
- Simple functions 
+Chapter 1 Boring Stuff - Python Basics
 
 ### [Sept 12 - Flow Control](https://github.com/Campbell-law/sept-12-flow-control)
-    Chapter 2 Boring Stuff
-    if else, loops 
 
-### Sept 19  - Flow cont'd Intro to [Docassemble](https://docassemble.org/) /  [Community Lawyer](https://community.lawyer/)
+    Chapter 2 Boring Stuff - Flow Control
+
+### Sept 19  - Flow cont'd  [Community Lawyer](https://community.lawyer/)
+
+    Chapter 2 Boring Stuff - Flow Control
  
 Expunction Walk through
 
 ### Sept 26  Functions - Notebooks  Intro
-Chapter 3 Boring Stuff
+Chapter 3 Boring Stuff - Functions
+
+    [nextJournal](https://nextjournal.com/new/Campbell)
 
 ## October
 
-### October 3 
-    Chapter 4 Boring Stuff
+### October 3 - Lists, Intro to Data types
+    Chapter 4 Boring Stuff - Lists
 
 
-### Oct 10 
-    Chapter 5 Boring Stuff
+### Oct 10 - Python Data Structures, Json
+    Chapter 5 Boring Stuff - Dictionaries and Structuring Data
    
-### Oct 17 Smart Contracts 
+### Oct 17 Object Oriented Programming 
     Chapter 6 Boring Stuff
 
-### Oct 24  Guest lecture Jerome Simeon
+### Oct 24  Smart Contract, Blockchain
 
-### Oct 31
+### Oct 31  APIs
 
 ## November
 
