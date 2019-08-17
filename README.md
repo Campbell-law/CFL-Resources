@@ -27,7 +27,8 @@ ___
 
 ## Python
 
-![Python Flying Circus][MPYthon.jpg]
+![Python Flying Circus][MPYthon]
+
 ### [Download Python][10]
 ___
 ## Terminal
@@ -41,7 +42,9 @@ ___
 
 #### [Github Getting started][7]
 ---
-![VS Code][vsc.png]
+
+![VS Code][vsc]
+
 ### [Visual Studio Code][8]
 
 #### [VS Code Getting Started][9]
