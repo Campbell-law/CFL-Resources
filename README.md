@@ -42,18 +42,20 @@ ___
 
 #### [Github Getting started][7]
 ---
+## VSCode
 
 ![VS Code][image-3]
 
-### [Visual Studio Code][8]
+### [Download Visual Studio Code][8]
 
 #### [VS Code Getting Started][9]
-
-
+___
+## Other resources
 ### [Docassemble](https://docassemble.org/)
 
 ### [Community Lawyer](https://community.lawyer/)
 
+### [nextJournal](https://nextjournal.com/new/Campbell)
 ---
 
 ## Syllabus
