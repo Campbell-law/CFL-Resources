@@ -27,7 +27,7 @@ ___
 
 ## Python
 
-![Python Flying Circus][MPYthon]
+![Python Flying Circus][image-2]
 
 ### [Download Python][10]
 ___
@@ -43,7 +43,7 @@ ___
 #### [Github Getting started][7]
 ---
 
-![VS Code][vsc]
+![VS Code][image-3]
 
 ### [Visual Studio Code][8]
 
@@ -161,4 +161,6 @@ ___
 [13]: https://dschool.stanford.edu/resources-collections/a-virtual-crash-course-in-design-thinking
 [14]: http://codingforlawyers.com/chapters/ch1/%0D%0A
 
-[image-1]:	https://github.com/tbrookelaw/CFL-Resources/blob/master/venn1.png
+[image-1]: https://github.com/tbrookelaw/CFL-Resources/blob/master/venn1.png
+[image-2]: https://github.com/tbrooke/CFL-Resources/blob/master/MPYthon.jpg
+[image-3]: https://github.com/tbrooke/CFL-Resources/blob/master/vsc.png
