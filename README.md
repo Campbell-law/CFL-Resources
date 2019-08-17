@@ -13,23 +13,35 @@ This course is a hands-on introduction to coding starting with coding using Pyth
 
 
 
-
 ## Course Text
 
 ### [Automate the Boring Stuff with Python][1]
 
 ## Course Setup
 
-### [Python][10]
+### For his course you will need to learn three basic tools:
+#### 1. Python
+#### 2. Terminal
+#### 3. Editor
+___
+
+## Python
+
+![Python Flying Circus][MPYthon.jpg]
+### [Download Python][10]
+___
+## Terminal
 
 ### [MacOs Terminal][4]
 
 ### [Windows Setup][5]
-
-### [Github][6]
+---
+## Github
+### [Sign up for Github][6]
 
 #### [Github Getting started][7]
-
+---
+![VS Code][vsc.png]
 ### [Visual Studio Code][8]
 
 #### [VS Code Getting Started][9]
