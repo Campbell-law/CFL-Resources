@@ -40,14 +40,6 @@ This course is a hands-on introduction to coding starting with coding using Pyth
 ### [Community Lawyer](https://community.lawyer/)
 
 ---
-## General Resources
-
-### Design Thinking
-
-#### [Crash Course in Design Thinking][13]
-
-___
-
 
 ## Syllabus
 ___
@@ -64,6 +56,8 @@ ___
 
 #### Intro to Projects
 
+---
+
 ### Aug 29 Intro to [Docassemble](https://docassemble.org/) 
 
 ####  Special remote guest session with Quinten Steenhuis 
@@ -79,57 +73,68 @@ how they use Docassemble
 
 ### [Hello World with Python](https://github.com/Campbell-law/Hello-World)
 
+---
+
 ## September
+---
 
 ### [Sept 05 - Python Basics](https://github.com/Campbell-law/sept-05-Intro-to-Python)
 
 Chapter 1 Boring Stuff - Python Basics
 
+---
 ### [Sept 12 - Flow Control](https://github.com/Campbell-law/sept-12-flow-control)
+
 
     Chapter 2 Boring Stuff - Flow Control
 
+---
 ### Sept 19  - Flow cont'd  [Community Lawyer](https://community.lawyer/)
 
     Chapter 2 Boring Stuff - Flow Control
  
-Expunction Walk through
+ ___
 
 ### Sept 26  Functions - Notebooks  Intro
+
 Chapter 3 Boring Stuff - Functions
 
     [nextJournal](https://nextjournal.com/new/Campbell)
 
+---
 ## October
+___
 
 ### October 3 - Lists, Intro to Data types
+
     Chapter 4 Boring Stuff - Lists
 
-
+___
 ### Oct 10 - Python Data Structures, Json
     Chapter 5 Boring Stuff - Dictionaries and Structuring Data
    
+---   
 ### Oct 17 Object Oriented Programming 
     Chapter 6 Boring Stuff
-
+---
 ### Oct 24  Smart Contract, Blockchain
-
+---
 ### Oct 31  APIs
-
+---
 ## November
-
+---
 ### Nov 7  Projects 
-
+---
 ### Nov 14  Projects
-
+---
 ### Nov 21  Present Projects
-
+---
 
 
 [1]: https://automatetheboringstuff.com/
 [2]: https://lawyerist.com/hello-world-attorneys-learn-code/#rf2-124089
 [3]: https://www.learnenough.com/course/learn_enough_javascript/javascript
-[4]: https://www.learnenough.com/course/learn_enough_command_line/command_line/basics/running_a_terminal
+[4]: https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line
 [5]: https://char.gd/blog/2017/how-to-set-up-the-perfect-modern-dev-environment-on-windows
 [6]: https://github.com/
 [7]: https://guides.github.com/activities/hello-world/#what
