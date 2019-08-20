@@ -4,13 +4,12 @@
 
 ## Introduction
 
-This course is a hands-on introduction to coding starting with coding using Python and important coding tools such as Git, VsCode and the interactive terminal. Students will start by getting familiar with coding tools and the world of Python. In addition to using basic Python students will be able to leverage their basic coding skills to collaborate on a larger project using Docassemble the popular legal application tool written in Python.
+This course is a hands-on introduction to coding starting with coding using Python and important coding tools such as Git, VsCode and the interactive terminal. Students will start by getting familiar with coding tools and the world of Python. In addition to using basic Python students will be able to leverage their basic coding skills to collaborate on a larger projects using Docassemble the popular legal application tool written in Python.
  
 
 [Should Lawyers Learn to Code][2]
 
 ![Venn][image-1]
-
 
 
 ## Course Text
@@ -29,7 +28,7 @@ ___
 
 ![Python Flying Circus][image-2]
 
-Yes Python was named after Monty Python, the British comedy team.
+Yes, Python was named after Monty Python, the British comedy team.
 
 ### [Download Python][10]
 ___
@@ -120,8 +119,7 @@ Chapter 1 Boring Stuff - Python Basics
 
 Chapter 3 Boring Stuff - Functions
 
-    [nextJournal](https://nextjournal.com/new/Campbell)
-
+### [nextJournal](https://nextjournal.com/new/Campbell)
 ---
 ## October
 ___
