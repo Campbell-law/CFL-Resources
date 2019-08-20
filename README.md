@@ -65,6 +65,7 @@ ___
 ___
 
 ## August
+---
 
 ### Aug 22 Intro Overview of Course
 
