@@ -29,6 +29,8 @@ ___
 
 ![Python Flying Circus][image-2]
 
+Yes Python was named after Monty Python, the British comedy team.
+
 ### [Download Python][10]
 ___
 ## Terminal
@@ -49,6 +51,8 @@ ___
 ### [Download Visual Studio Code][8]
 
 #### [VS Code Getting Started][9]
+
+#### [VS Code Python Tutorial][15]
 ___
 ## Other resources
 ### [Docassemble](https://docassemble.org/)
@@ -162,6 +166,7 @@ ___
 [12]: https://medium.com/@kkostov/how-to-install-node-and-npm-on-macos-using-homebrew-708e2c3877bd
 [13]: https://dschool.stanford.edu/resources-collections/a-virtual-crash-course-in-design-thinking
 [14]: http://codingforlawyers.com/chapters/ch1/%0D%0A
+[15]: https://code.visualstudio.com/docs/python/python-tutorial
 
 [image-1]: https://github.com/tbrookelaw/CFL-Resources/blob/master/venn1.png
 [image-2]: https://github.com/tbrooke/CFL-Resources/blob/master/MPYthon.jpg
