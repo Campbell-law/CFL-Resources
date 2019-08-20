@@ -60,8 +60,7 @@ ___
 
 ### [nextJournal](https://nextjournal.com/new/Campbell)
 ---
-
-## Syllabus
+# Syllabus
 ___
 
 ## August
