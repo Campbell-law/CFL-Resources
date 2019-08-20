@@ -49,9 +49,9 @@ ___
 
 ### [Download Visual Studio Code][8]
 
-#### [VS Code Getting Started][9]
+### [VS Code Getting Started][9]
 
-#### [VS Code Python Tutorial][15]
+### [VS Code Python Tutorial][15]
 ___
 ## Other resources
 ### [Docassemble](https://docassemble.org/)
