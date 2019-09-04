@@ -109,36 +109,37 @@ Chapter 1 Boring Stuff - Python Basics
     Chapter 2 Boring Stuff - Flow Control
 
 ---
-### Sept 19  - Flow cont'd  [Community Lawyer](https://community.lawyer/)
+### Sept 19  - Flow cont'd  -  Intro to Docassemble
 
     Chapter 2 Boring Stuff - Flow Control
  
  ___
 
-### Sept 26  Functions - Notebooks  Intro
+### Sept 26  Docassemble cont'd
 
-Chapter 3 Boring Stuff - Functions
-
-### [nextJournal](https://nextjournal.com/new/Campbell)
 ---
 ## October
 ___
 
-### October 3 - Lists, Intro to Data types
+### October 3 - Functions
 
-    Chapter 4 Boring Stuff - Lists
+
+### [nextJournal](https://nextjournal.com/new/Campbell)
+
+    Chapter 3 Boring Stuff - Functions
 
 ___
-### Oct 10 - Python Data Structures, Json
-    Chapter 5 Boring Stuff - Dictionaries and Structuring Data
+### Oct 10 - Python Data Structures, Lists
+
+    Chapter 4 Boring Stuff - Lists
    
 ---   
-### Oct 17 Object Oriented Programming 
-    Chapter 6 Boring Stuff
+### Oct 17 
+    Chapter 5 Boring Stuff - Dictionaries and data structures
 ---
-### Oct 24  Smart Contract, Blockchain
+### Oct 24  Smart Contract, Blockchain 
 ---
-### Oct 31  APIs
+### Oct 31  Projects
 ---
 ## November
 ---
