@@ -91,6 +91,8 @@ how they use Docassemble
 * Tools - VsCode
 * Tools - Git, Github
 
+---
+## Sept 5  -- Continue Setup 
 ### [Hello World with Python](https://github.com/Campbell-law/Hello-World)
 
 ---
@@ -98,30 +100,26 @@ how they use Docassemble
 ## September
 ---
 
-### [Sept 05 - Python Basics](https://github.com/Campbell-law/sept-05-Intro-to-Python)
+### [Sept 19 - Python Basics](https://github.com/Campbell-law/sept-05-Intro-to-Python)
 
 Chapter 1 Boring Stuff - Python Basics
 
 ---
-### [Sept 12 - Flow Control](https://github.com/Campbell-law/sept-12-flow-control)
+### [Sept 26 - Flow Control](https://github.com/Campbell-law/sept-12-flow-control)
 
 
     Chapter 2 Boring Stuff - Flow Control
-
----
-### Sept 19  - Flow cont'd  -  Intro to Docassemble
-
-    Chapter 2 Boring Stuff - Flow Control
- 
- ___
-
-### Sept 26  Docassemble cont'd
 
 ---
 ## October
 ___
 
-### October 3 - Functions
+### October 3  -  Flow Control Cont'd. Docassemble cont'd Community Lawyer
+
+#### [Sept 26 - Flow Control](https://github.com/Campbell-law/sept-12-flow-control)
+---
+
+### October 10 - Functions
 
 
 ### [nextJournal](https://nextjournal.com/new/Campbell)
@@ -129,15 +127,13 @@ ___
     Chapter 3 Boring Stuff - Functions
 
 ___
-### Oct 10 - Python Data Structures, Lists
+### Oct 17 - Python Data Structures, Lists
 
     Chapter 4 Boring Stuff - Lists
    
 ---   
-### Oct 17 
+### Oct 24 - Dictionaries, data structures
     Chapter 5 Boring Stuff - Dictionaries and data structures
----
-### Oct 24  Smart Contract, Blockchain 
 ---
 ### Oct 31  Projects
 ---
