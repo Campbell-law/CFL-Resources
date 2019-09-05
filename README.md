@@ -111,16 +111,12 @@ Chapter 1 Boring Stuff - Python Basics
     Chapter 2 Boring Stuff - Flow Control
 
 ---
-### Sept 19  - Flow cont'd  -  Intro to Docassemble
-
-    Chapter 2 Boring Stuff - Flow Control
- 
-
----
 ## October
 ___
 
-### October 3  Docassemble cont'd Community Lawyer
+### October 3  -  Flow Control Cont'd. Docassemble cont'd Community Lawyer
+
+#### [Sept 26 - Flow Control](https://github.com/Campbell-law/sept-12-flow-control)
 ---
 
 ### October 10 - Functions
