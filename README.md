@@ -90,33 +90,43 @@ how they use Docassemble
 * Tools - The Terminal
 * Tools - VsCode
 * Tools - Git, Github
+---
+# September
 
 ---
 ## Sept 5  -- Continue Setup 
 ### [Hello World with Python](https://github.com/Campbell-law/Hello-World)
 
 ---
+## September 12
 
-## September
+### Reading: [How I changed the law with a github pull request](https://arstechnica.com/tech-policy/2018/11/how-i-changed-the-law-with-a-github-pull-request/)
+### Chapter 2 Boring Stuff - [Python Basics](https://automatetheboringstuff.com/chapter1/)
+
+
+### Coding Exercises: [Sept 12 - Python Basics](https://github.com/Campbell-law/sept-05-Intro-to-Python)
 ---
 
-### [Sept 19 - Python Basics](https://github.com/Campbell-law/sept-05-Intro-to-Python)
-
-Chapter 1 Boring Stuff - Python Basics
+## September 19 
 
 ---
-### [Sept 26 - Flow Control](https://github.com/Campbell-law/sept-12-flow-control)
+Reading: [Chapter 3 - Boring Stuff](https://automatetheboringstuff.com/chapter2/)
 
+[Expunction Overview](https://www.sog.unc.edu/resources/microsites/relief-criminal-conviction)
 
-    Chapter 2 Boring Stuff - Flow Control
+[2017 Expunction Guide](https://drive.google.com/file/d/15BZIV4_zhs6o-hmG4E19qEag0LJ8HzZ8/view?usp=sharing)
+
+#### Coding Exercises [Sept 19 - Flow Control](https://github.com/Campbell-law/sept-12-flow-control)
+
 
 ---
-## October
+# October
 ___
 
-### October 3  -  Flow Control Cont'd. Docassemble cont'd Community Lawyer
+### October 3  -  Flow Control Cont'd. Intro to Docassemble
 
-#### [Sept 26 - Flow Control](https://github.com/Campbell-law/sept-12-flow-control)
+#### [Oct 3 - Flow Control](https://github.com/Campbell-law/Oct-3-flow-control)
+#### [Hello World - Docassemble](https://docassemble.org/docs/helloworld.html)
 ---
 
 ### October 10 - Functions
@@ -125,6 +135,8 @@ ___
 ### [nextJournal](https://nextjournal.com/new/Campbell)
 
     Chapter 3 Boring Stuff - Functions
+#### [Oct 10 - Functions](https://github.com/Campbell-law/Oct-10-Functions)
+---
 
 ___
 ### Oct 17 - Python Data Structures, Lists
@@ -139,8 +151,10 @@ ___
 ---
 ## November
 ---
-### Nov 7  Projects 
+### Nov 7  Jerome Simeon - Accord Project
+#### [Accord Project](https://www.accordproject.org/)
 ---
+
 ### Nov 14  Projects
 ---
 ### Nov 21  Present Projects
@@ -166,3 +180,4 @@ ___
 [image-1]: https://github.com/tbrookelaw/CFL-Resources/blob/master/venn1.png
 [image-2]: https://github.com/tbrooke/CFL-Resources/blob/master/MPYthon.jpg
 [image-3]: https://github.com/tbrooke/CFL-Resources/blob/master/vsc.png
+[image-5]: https://github.com/tbrooke/CFL-Resources/blob/master/expunctions.pdf
