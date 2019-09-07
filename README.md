@@ -115,7 +115,7 @@ Reading: [Chapter 3 - Boring Stuff](https://automatetheboringstuff.com/chapter2/
 
 [Expunction Overview](https://www.sog.unc.edu/resources/microsites/relief-criminal-conviction)
 
-![2017 Expunction Guide][1mage-5]
+![2017 Expunction Guide][image-5]
 
 ### Coding Exrexises [Sept 19 - Flow Control](https://github.com/Campbell-law/sept-12-flow-control)
 
