@@ -109,18 +109,15 @@ how they use Docassemble
 
 ## September 19 
 
-
 ---
 Reading: [Chapter 3 - Boring Stuff](https://automatetheboringstuff.com/chapter2/)
 
 [Expunction Overview](https://www.sog.unc.edu/resources/microsites/relief-criminal-conviction)
 
-![2017 Expunction Guide][image-5]
+[2017 Expunction Guide](https://drive.google.com/file/d/15BZIV4_zhs6o-hmG4E19qEag0LJ8HzZ8/view?usp=sharing)
 
-### Coding Exrexises [Sept 19 - Flow Control](https://github.com/Campbell-law/sept-12-flow-control)
+#### Coding Exercises [Sept 19 - Flow Control](https://github.com/Campbell-law/sept-12-flow-control)
 
-
-    Chapter 2 Boring Stuff - Flow Control
 
 ---
 # October
@@ -128,7 +125,8 @@ ___
 
 ### October 3  -  Flow Control Cont'd. Intro to Docassemble
 
-#### [Oct 3 - Flow Control](https://github.com/Campbell-law/sept-12-flow-control)
+#### [Oct 3 - Flow Control](https://github.com/Campbell-law/Oct-3-flow-control)
+#### [Hello World - Docassemble](https://docassemble.org/docs/helloworld.html)
 ---
 
 ### October 10 - Functions
@@ -137,6 +135,8 @@ ___
 ### [nextJournal](https://nextjournal.com/new/Campbell)
 
     Chapter 3 Boring Stuff - Functions
+#### [Oct 10 - Functions](https://github.com/Campbell-law/Oct-10-Functions)
+---
 
 ___
 ### Oct 17 - Python Data Structures, Lists
@@ -152,7 +152,9 @@ ___
 ## November
 ---
 ### Nov 7  Jerome Simeon - Accord Project
+#### [Accord Project](https://www.accordproject.org/)
 ---
+
 ### Nov 14  Projects
 ---
 ### Nov 21  Present Projects
