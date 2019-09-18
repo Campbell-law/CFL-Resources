@@ -132,17 +132,18 @@ ___
 ---
 
 ### October 10 - Functions and Community Lawyer
+#### Reading and Exercises
 
 [Chapter 3 - Boring Stuff](https://automatetheboringstuff.com/chapter3/)
 
+#### [Oct 10 - Functions](https://github.com/Campbell-law/Oct-10-Functions)
+___
 #### Thomas Officer from Community Lawyer will be teaching remotely  -- Please see the Repo for prep for his class
 
 ![CL][image-6]
-
-
-    Chapter 3 Boring Stuff - Functions
-#### [Oct 10 - Functions](https://github.com/Campbell-law/Oct-10-Functions)
 ---
+
+
 
 ___
 ### Oct 17 - Python Data Structures, Lists
