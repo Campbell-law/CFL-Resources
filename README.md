@@ -110,7 +110,7 @@ how they use Docassemble
 ## September 19 
 
 ---
-Reading: [Chapter 3 - Boring Stuff](https://automatetheboringstuff.com/chapter2/)
+Reading: [Chapter 2 - Boring Stuff](https://automatetheboringstuff.com/chapter2/)
 
 [Expunction Overview](https://www.sog.unc.edu/resources/microsites/relief-criminal-conviction)
 
@@ -123,16 +123,22 @@ Reading: [Chapter 3 - Boring Stuff](https://automatetheboringstuff.com/chapter2/
 # October
 ___
 
-### October 3  -  Flow Control Cont'd. Intro to Docassemble
+### October 3  -  Flow Control Cont'd.  Intro to Docassemble
 
 #### [Oct 3 - Flow Control](https://github.com/Campbell-law/Oct-3-flow-control)
+
+
 #### [Hello World - Docassemble](https://docassemble.org/docs/helloworld.html)
 ---
 
-### October 10 - Functions
+### October 10 - Functions and Community Lawyer
 
+[Chapter 3 - Boring Stuff](https://automatetheboringstuff.com/chapter3/)
 
-### [nextJournal](https://nextjournal.com/new/Campbell)
+#### Thomas Officer from Community Lawyer will be teaching remotely  -- Please see the Repo for prep for his class
+
+![CL][image-6]
+
 
     Chapter 3 Boring Stuff - Functions
 #### [Oct 10 - Functions](https://github.com/Campbell-law/Oct-10-Functions)
@@ -141,7 +147,7 @@ ___
 ___
 ### Oct 17 - Python Data Structures, Lists
 
-    Chapter 4 Boring Stuff - Lists
+    Chapter 4 Boring Stuff - Functions continued and Lists
    
 ---   
 ### Oct 24 - Dictionaries, data structures
@@ -181,3 +187,4 @@ ___
 [image-2]: https://github.com/tbrooke/CFL-Resources/blob/master/MPYthon.jpg
 [image-3]: https://github.com/tbrooke/CFL-Resources/blob/master/vsc.png
 [image-5]: https://github.com/tbrooke/CFL-Resources/blob/master/expunctions.pdf
+[image-6]: https://github.com/tbrooke/CFL-Resources/blob/master/cl-logo-nav.png
