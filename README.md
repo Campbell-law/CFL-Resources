@@ -120,23 +120,24 @@ Reading: [Chapter 2 - Boring Stuff](https://automatetheboringstuff.com/chapter2/
 
 
 ---
-# October
+## September 26
 ___
 
-### October 3  -  Flow Control Cont'd.  Intro to Docassemble
+### September 26  -  Flow Control Cont'd.  Intro to Docassemble
 
-#### [Oct 3 - Flow Control](https://github.com/Campbell-law/Oct-3-flow-control)
+#### [September 26 - Flow Control](https://github.com/Campbell-law/Sept-26-flow-control)
 
 
 #### [Hello World - Docassemble](https://docassemble.org/docs/helloworld.html)
 ---
-
-### October 10 - Functions and Community Lawyer
+# October 
+___
+### October 03 - Functions and Community Lawyer
 #### Reading and Exercises
 
 [Chapter 3 - Boring Stuff](https://automatetheboringstuff.com/chapter3/)
 
-#### [Oct 10 - Functions & Community Lawyer Prep](https://github.com/Campbell-law/Oct-10-Functions)
+#### [Oct 03 - Functions & Community Lawyer Prep](https://github.com/Campbell-law/Oct-10-Functions)
 ___
 #### Thomas Officer from Community Lawyer will be teaching remotely  -- Please see the Repo for prep for his class
 
@@ -146,13 +147,15 @@ ___
 
 
 ___
-### Oct 17 - Python Data Structures, Lists
+### Oct 10 - Python Data Structures, Lists
 
     Chapter 4 Boring Stuff - Functions continued and Lists
    
----   
-### Oct 24 - Dictionaries, data structures
+
+### Oct 17   - Dictionaries, data structures
     Chapter 5 Boring Stuff - Dictionaries and data structures
+---   
+### Oct 24   - Object Oriented Prgramming in Python
 ---
 ### Oct 31  Projects
 ---
