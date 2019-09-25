@@ -147,22 +147,21 @@ ___
 
 
 ___
+
 ### Oct 10 - Python Data Structures, Lists
 
-    Chapter 4 Boring Stuff - Functions continued and Lists
-   
-
-### Oct 17   - Dictionaries, data structures
+    Chapter 4 Boring Stuff - Functions continued and Lists   
+___
+### Oct 17  - Dictionaries, data structures
     Chapter 5 Boring Stuff - Dictionaries and data structures
 ---   
 ### Oct 24   - Object Oriented Prgramming in Python
 ---
-### Oct 31  Projects
+### Oct 31  - Jerome Simeon - [Accord Project](https://www.accordproject.org/)
 ---
 ## November
 ---
-### Nov 7  Jerome Simeon - Accord Project
-#### [Accord Project](https://www.accordproject.org/)
+### Nov 7  Projects
 ---
 
 ### Nov 14  Projects
