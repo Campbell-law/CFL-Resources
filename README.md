@@ -161,8 +161,7 @@ ___
 ---
 ## November
 ---
-### Nov 7  Jerome Simeon - Accord Project
-#### [Accord Project](https://www.accordproject.org/)
+### Nov 7  Projects
 ---
 
 ### Nov 14  Projects
