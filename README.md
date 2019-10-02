@@ -149,13 +149,26 @@ ___
 ___
 
 ### Oct 10 - Python Data Structures, Lists
+## Reading:
 
-    Chapter 4 Boring Stuff - Functions continued and Lists   
+  ### [Chapter 4 Boring Stuff](https://automatetheboringstuff.com/chapter4/) - Functions continued and Lists
+  
+### [How to Build an Interactive Legal Application](https://www.nonprofittechy.com/2019/10/01/basic-elements-of-an-interactive-legal-application/)
+
+  ###  Work on Expunction Project
+
+  ### [Exercise Repo](https://github.com/Campbell-law/Oct-10-lists)
 ___
 ### Oct 17  - Dictionaries, data structures
-    Chapter 5 Boring Stuff - Dictionaries and data structures
+###   [Chapter 5 Boring Stuff ](https://automatetheboringstuff.com/chapter5/)  - Dictionaries and Data Structures
+
+#### Work on Expunsction Project
 ---   
-### Oct 24   - Object Oriented Prgramming in Python
+### Oct 24   - Object Oriented Prgramming 
+
+### Reading:
+### [Object Oriented Programming](https://www.nonprofittechy.com/2018/09/12/object-oriented-programming-for-document-assembly-developers/)
+### [Object Oriented Programming in Docassemble](https://docassemble.org/docs/objects.html)
 ---
 ### Oct 31  - Jerome Simeon - [Accord Project](https://www.accordproject.org/)
 ---
@@ -164,9 +177,9 @@ ___
 ### Nov 7  Projects
 ---
 
-### Nov 14  Projects
+### Nov 14  Cloud Computing
 ---
-### Nov 21  Present Projects
+### Nov 21  Final Class
 ---
 
 
