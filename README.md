@@ -160,6 +160,9 @@ ___
   ### [Exercise Repo](https://github.com/Campbell-law/Oct-10-lists)
 ___
 ### Oct 17  - Dictionaries, data structures
+
+##  Special Guest: Kristofer Cook IT Projects Attorney NC Legal Aid
+
 ###   [Chapter 5 Boring Stuff ](https://automatetheboringstuff.com/chapter5/)  - Dictionaries and Data Structures
 
 #### Work on Expunsction Project
@@ -177,9 +180,9 @@ ___
 ### Nov 7  Projects
 ---
 
-### Nov 14  Cloud Computing
+### Nov 14  Web Develop,ent Cloud Computing
 ---
-### Nov 21  Final Class
+### Nov 21  No Class
 ---
 
 
