@@ -180,7 +180,7 @@ ___
 ### Nov 7  Projects
 ---
 
-### Nov 14  Web Develop,ent Cloud Computing
+### Nov 14  Web Development, Cloud Computing
 ---
 ### Nov 21  No Class
 ---
