@@ -172,7 +172,7 @@ ___
 
 ## Work on Project
 
-### Reading:
+### Reading: Strings
 [Chapter 6 - Boring Stuff](https://automatetheboringstuff.com/chapter6/)
 
 
