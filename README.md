@@ -165,6 +165,9 @@ ___
 
 ###   [Chapter 5 Boring Stuff ](https://automatetheboringstuff.com/chapter5/)  - Dictionaries and Data Structures
 
+### [Exercise Repo](https://github.com/Campbell-law/Oct-17-Dictionaries)
+
+
 #### Work on Expunction Project
 ---   
 
