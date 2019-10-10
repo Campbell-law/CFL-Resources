@@ -165,24 +165,33 @@ ___
 
 ###   [Chapter 5 Boring Stuff ](https://automatetheboringstuff.com/chapter5/)  - Dictionaries and Data Structures
 
-#### Work on Expunsction Project
+#### Work on Expunction Project
 ---   
-### Oct 24   - Object Oriented Prgramming 
+
+### October 24
+
+## Work on Project
 
 ### Reading:
-### [Object Oriented Programming](https://www.nonprofittechy.com/2018/09/12/object-oriented-programming-for-document-assembly-developers/)
-### [Object Oriented Programming in Docassemble](https://docassemble.org/docs/objects.html)
+[Chapter 6 - Boring Stuff](https://automatetheboringstuff.com/chapter6/)
+
+
 ---
 ### Oct 31  - Jerome Simeon - [Accord Project](https://www.accordproject.org/)
 ---
 ## November
 ---
-### Nov 7  Projects
+### Nov 7  - Review Day
+
+### Work on Projects
+
+### Python Review and Summary
+
 ---
 
 ### Nov 14  Web Development, Cloud Computing
 ---
-### Nov 21  No Class
+### Nov 21 --   No Class
 ---
 
 
