@@ -186,10 +186,10 @@ ___
 ---
 ### Nov 7  - Review Day
 
-### Work on Projects
+### Work on Project
 
 ### Python Review and Summary
-
+## [Python Review](https://github.com/Campbell-law/Nov-07-review)
 ---
 
 ### Nov 14  Web Development, Cloud Computing
