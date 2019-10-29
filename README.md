@@ -192,7 +192,8 @@ ___
 ## [Python Review](https://github.com/Campbell-law/Nov-07-review)
 ---
 
-### Nov 14  Web Development, Cloud Computing
+### Nov 14  Overview of computing, Web Development, Cloud Computing
+### "Climbing to the Cloud"
 ---
 ### Nov 21 --   No Class
 ---
